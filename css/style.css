@@ -805,3 +805,5 @@ a.active {
 span{color: #000;}
 .item_info a{color: white;}
 .item_info a:hover{color: #6fa5d5;}
+#md_12{text-align: center;}
+.col-md-12 img{padding-bottom: 15px;}
