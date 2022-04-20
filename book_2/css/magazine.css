@@ -10,6 +10,7 @@ body{
 	margin:0;
 	padding:0;
 	background: url(../pages/29.jpg) no-repeat;
+	background-size:  cover;
 }
 
 .magazine-viewport .container{
