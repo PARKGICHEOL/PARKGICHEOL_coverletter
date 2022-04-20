@@ -1,0 +1,40 @@
+*{margin:0; padding:0;}
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body{font-family:'GmarketSansMedium';
+    background-color: #4d2413;}
+ul{list-style:none; 
+position:fixed;
+bottom:50px;
+right:30px;
+text-align:center;}
+ul li{
+    margin: 10px;
+}
+ul li a{
+    display: inline-block;
+    padding: 20px 20px;
+    border-radius: 60px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+   
+}
+
+.seiva_btn li a{
+    background: #e3ab56;
+}
+.seiva_btn li a:hover{
+  background:radial-gradient(#490202,#490202);
+}
+.waves_btn li a{
+    background: #f26c63;
+}
+a{text-decoration:none; color:#fff;}
+img{width:100%;}
+.body{width: 1600px;
+    margin: auto;
+}
+.bt_1 a{padding: 28px 20px;}
